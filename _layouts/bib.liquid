@@ -34,6 +34,12 @@
         {% else %}
           <abbr class="badge">{{ entry.abbr }}</abbr>
         {% endif %}
+        {%- if entry.award -%}
+          <span class="award badge">{{entry.award}}</span>
+        {%- endif -%}
+        {%- if entry.award2 -%}
+          <span class="award badge">{{entry.award2}}</span>
+        {%- endif -%}
       {% endif %}
     </div>
   {% endif %}
@@ -153,6 +159,11 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {%- if entry.honor -%}
+      <span class="honor">
+        {{entry.honor}}
+      </span>
+    {%- endif -%}
 
     <!-- Links/Buttons -->
     <div class="links">
