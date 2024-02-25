@@ -33,6 +33,19 @@
       ]
     },
     {
+      "name": "Data Science Laboratory - HUST",
+      "position": "Student Researcher",
+      "url": "http://ds.soict.hust.edu.vn/",
+      "startDate": "2021-04",
+      "endDate": "2023-06",
+      "summary": "",
+      "highlights": [
+        "Sequence-aware DPMs: Improving Diffusion Models by addressing the correlation between consecutive denoising steps (<mark>1 paper published at AAAI</mark>).",
+        "Dropout Diffusion: Addressing the weakness of Diffusion Models in generalization capability and proposing Dropout Diffusion for improvement (<mark>highest score at Machine Learning thesis committee</mark>).",
+        "Generalization Capability of Deep Neural Network: Investigating the robustness of DNNs (1 paper under reviewed at ICML)."
+      ]
+    },
+    {
       "name": "TopCV JSC",
       "position": "AI Engineer",
       "url": "https://topcv.vn/",
@@ -40,7 +53,7 @@
       "endDate": "2023-04",
       "summary": "",
       "highlights": [
-        "TopCV Recommendation System: Propose SmartRanking algorithm boosting conversion rate by 2% in high-traffic boxes.",
+        "TopCV Recommendation System: Propose SmartRanking algorithm <mark>boosting conversion rate by 2%</mark> in high-traffic boxes.",
         "TopCV Spam Detection: Detect spam job.",
         "TopCV Spelling Correction: Auto-checking and auto-correcting spelling errors in job descriptions."
       ]

@@ -190,6 +190,12 @@ ul.timeline li::before {
   top: -0.5rem;
 }
 
+mark {
+  color: var(--global-card-bg-color) !important;
+  background-color: var(--global-theme-color) !important;
+
+}
+
 /*ul.timeline::before {
      content: "●";
      font-size: 1em;
