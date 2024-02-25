@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Long Giang Vu",
-    "label": "AI/Machine Learning Engineer",
+    "Title": "AI/Machine Learning Engineer",
     "image": "",
     "email": "giangvl.cs@gmail.com",
     "phone": "(+84) 333178013",
     "url": "https://ginlov.github.io/",
-    "summary": "As a research assistant at DS Lab, SoICT, HUST, I work on developing and applying machine learning solutions to various problems, such as natural language processing, recommendation systems, and computer vision. I have received the Excellence Scholarship for two consecutive years. I also have industry experience as an AI engineer at TopCV Vietnam, where I contributed to the design and implementation of the recommendation system of the topcv.vn website, using deep learning techniques such as neural hash and learning to rank. Additionally, I developed and operated the duplicate checking and spelling correction systems, and created internal libraries for data preprocessing and index-preserving. I am passionate about learning new skills and technologies, and I am currently pursuing a certification in data engineering from IBM. I am fluent in English and Vietnamese, and proficient in Python, TensorFlow, PyTorch, and SQL.",
     "location": {
       "city": "Hanoi",
       "countryCode": "VN",
@@ -49,18 +48,27 @@
   ],
   "education": [
     {
-      "institution": "Hanoi University of Science and Technology, Hanoi, Vietnam",
+      "institution": "Hanoi University of Science and Technology",
       "location": "Hanoi, Vietnam",
       "url": "https://www.hust.edu.vn/en/",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
+      "studyType": "B.Sc in Computer Science",
       "startDate": "2018-08",
       "endDate": "2023-05",
       "score": "3.76/4.0",
+      "description": [
+        "Exellence Dgree (top 1%, 3.76/4.0)",
+        "Thesis \"Some methods for improving Diffusion Model (9.7/10)\" "
+      ],
       "thesis": ["Some methods for improving Diffusion Model (9.7/10)"]
     }
   ],
   "awards": [
+    {
+      "title": "First Prize in TopCV Coding Contest (both individual and team competition)",
+      "date": "2023-03",
+      "awarder": "TopCV Vietnam",
+      "summary": "Coding Contest for developers focusing on algorithms and data structures"
+    },
     {
       "title": "Exellence Scholarship for Undergraduate",
       "date": "2021-12",
@@ -82,7 +90,8 @@
       "publisher": "AAAI Conference on Artificial Intelligence",
       "releaseDate": "2024-02",
       "url": "https://arxiv.org/abs/2312.12431",
-      "summary": ""
+      "summary": "",
+      "award": "Oral Presentation"
     }
   ],
   "skills": [
@@ -152,15 +161,5 @@
       ]
     }
 
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
 }
