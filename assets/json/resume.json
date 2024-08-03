@@ -21,11 +21,22 @@
   },
   "work": [
     {
+      "name": "Techcom Securities",
+      "position": "Data Scientist",
+      "url": "https://www.tcbs.com.vn/home",
+      "startDate": "2024-04",
+      "endDate": "Now",
+      "summary": "",
+      "highlights": [
+        "Develop automl platform to support business users."
+      ]
+    }, 
+    {
       "name": "Viettel Group",
       "position": "Machine Learning Engineer",
       "url": "https://viettel.com.vn/en/",
       "startDate": "2023-06",
-      "endDate": "Now",
+      "endDate": "2024-04",
       "summary": "",
       "highlights": [
         "Develop Viettel Machine Learning Platform (vMLP): MLOps, Model serving, Feature Store, ...",
@@ -60,6 +71,14 @@
     }
   ],
   "education": [
+    {
+      "institution": "University of California, San Diego",
+      "location": "San Diego, CA, US",
+      "url": "https://ucsd.edu",
+      "studyType": "M.Sc in Computer Science and Engineering",
+      "startDate": "2024-09",
+      "endDate": "2026-06 (expected)"
+    },
     {
       "institution": "Hanoi University of Science and Technology",
       "location": "Hanoi, Vietnam",
@@ -151,7 +170,7 @@
     },
     {
       "language": "English",
-      "fluency": "IELTS Academic: 7.0",
+      "fluency": "Proficient",
       "icon": ""
     }
   ],
@@ -173,6 +192,5 @@
         "SaaS for AI"
       ]
     }
-
   ]
 }
