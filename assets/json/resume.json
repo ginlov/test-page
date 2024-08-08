@@ -53,7 +53,7 @@
       "highlights": [
         "Sequence-aware DPMs: Improving Diffusion Models by addressing the correlation between consecutive denoising steps (<mark>1 paper published at AAAI</mark>).",
         "Dropout Diffusion: Addressing the weakness of Diffusion Models in generalization capability and proposing Dropout Diffusion for improvement (<mark>highest score at Machine Learning thesis committee</mark>).",
-        "Generalization Capability of Deep Neural Network: Investigating the robustness of DNNs (1 paper under reviewed at ICML)."
+        "Generalization Capability of Deep Neural Network: Investigating the robustness of DNNs."
       ]
     },
     {
@@ -165,18 +165,6 @@
         "Triton Server",
         "Docker, Kubernetes"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Vietnamese",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Proficient",
-      "icon": ""
     }
   ],
   "interests": [
