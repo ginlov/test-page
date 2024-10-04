@@ -1,15 +1,14 @@
 {
   "basics": {
-    "name": "Long Giang Vu",
-    "Title": "AI/Machine Learning Engineer",
+    "name": "Long-Giang Vu",
     "image": "",
     "email": "giangvl.cs@gmail.com",
-    "phone": "(+84) 333178013",
     "url": "https://ginlov.github.io/",
+    "linkedin": "Long-Giang Vu",
     "location": {
-      "city": "Hanoi",
-      "countryCode": "VN",
-      "region": "Hanoi"
+      "city": "San Diego",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [
       {
@@ -25,7 +24,7 @@
       "position": "Data Scientist",
       "url": "https://www.tcbs.com.vn/home",
       "startDate": "2024-04",
-      "endDate": "Now",
+      "endDate": "2024-08",
       "summary": "",
       "highlights": [
         "Develop automl platform to support business users."
@@ -45,7 +44,7 @@
     },
     {
       "name": "Data Science Laboratory - HUST",
-      "position": "Student Researcher",
+      "position": "Research Student",
       "url": "http://ds.soict.hust.edu.vn/",
       "startDate": "2021-04",
       "endDate": "2023-06",
@@ -129,42 +128,6 @@
       "url": "https://arxiv.org/abs/2312.12431",
       "summary": "",
       "award": "Oral Presentation"
-    }
-  ],
-  "skills": [
-    {
-      "name": "AI",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Natural Language Processing",
-        "Generative Models",
-        "Diffusion Models",
-        "GAN"
-      ]
-    },
-    {
-      "name": "Data Science",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Data Wrangling",
-        "Data Preparation",
-        "Machine Learning",
-        "Airflow",
-        "SQL"
-      ]
-    },
-    {
-      "name": "MLOps",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "MLFlow",
-        "Seldon Core",
-        "Triton Server",
-        "Docker, Kubernetes"
-      ]
     }
   ],
   "interests": [
