@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Long-Giang Vu # the website title (if blank, full name will be used instead)
+title: 'blank'# the website title (if blank, full name will be used instead)
 first_name: Long-Giang
 middle_name: 
 last_name: Vu
@@ -70,7 +70,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: ginlov # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: VLGCris # your X handle
+x_username: leovulong # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: giang-vu-735421174 # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Ginlov # blog_name will be displayed in your blog page
+blog_name: Leo Blog # blog_name will be displayed in your blog page
 blog_description:
 permalink: /blog/:year/:title/
 

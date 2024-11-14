@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper **On Inference Stability for Diffusion Models** is accepted at **AAAI2024**.
+:sparkles: Paper **On Inference Stability for Diffusion Models** is accepted at **AAAI2024**.

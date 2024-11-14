@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am very honored to be awarded a VinGroup Scholarship to pursue my Master's degree in the US.
+:smile: I am very honored to be awarded a VinGroup Scholarship to pursue my Master's degree in the US.
